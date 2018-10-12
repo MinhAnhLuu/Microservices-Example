@@ -1,0 +1,2 @@
+curl -i -d "{\"airport_from\": \"378e0c772e934c82959e645cdbf90468\", \"airport_to\": \"43df7d5fdcc9460c815a9f960f1c9b75\"}" localhost:8000/trip
+curl localhost:8000/trip/d9465c70263547ec9d5957ae3db21607
